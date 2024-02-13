@@ -41,24 +41,25 @@ Sample image of the application shown :
 
 4. User can now create a new note by clicking the plus button and save it by clicking the save button on the top right corner.
 
-<img src="./images/Save button.png">
+<img src="./images/Adding new note.png">
 
 5. Notes will be saved in the left hand side of the page. 
 
-<img src="./images/Note saved.png">
+<img src="./images/New note saved.png">
 
 6. Notes can be deleted by clicking the trash can icon on the right hand side of the note.
 
-<img src="./images/Note deleted.png">
+<img src="./images/Delete Note.png">
 
 7. Then note will be deleted from the left hand side of the page.
 
-<img src="./images/Then note is deleted.png">
+<img src="./images/Note Deleted.png">
 
 ## Reference
 
 -   https://www.npmjs.com/package/express
 -   https://www.npmjs.com/package/uuid
+-   https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide
 
 Link to the starer code:
 -   https://github.com/coding-boot-camp/miniature-eureka 
