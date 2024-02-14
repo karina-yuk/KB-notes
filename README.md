@@ -49,11 +49,11 @@ Sample image of the application shown :
 
 6. Notes can be deleted by clicking the trash can icon on the right hand side of the note.
 
-<img src="./images/Delete note.png">
+<img src="./images/Delete button.png">
 
 7. Then note will be deleted from the left hand side of the page.
 
-<img src="./images/Note Deleted.png">
+<img src="./images/Deleted.png">
 
 ## Reference
 
